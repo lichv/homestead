@@ -20,9 +20,7 @@ vagrant up
 
 vagrant ssh
 
-cd ..\.\dev\www
 
-composer install
 ```
 
 
@@ -34,9 +32,6 @@ vagrant up
 
 vagrant ssh
 
-cd ../../dev/www
-
-composer install
 ```
 
 ## 更改了homestead的配置，需要重启
